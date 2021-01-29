@@ -1,0 +1,45 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Linus Birkenes
+
+2. What hostname did you deploy to?
+hw02
+
+3. What's the link to your repository on github with your code?
+https://github.com/birkenesl/4550hw02
+
+4. How many HTML / CSS tutorial exercises did you do?
+
+About half of the HTML ones, and a quarter of the CSS ones
+
+5. How comfortable do you feel with HTML and CSS now?
+Pretty comfortable, although I'm going to be looking things up for a long time.
+
+6. How many JS tutorial exercises did you do?
+Less than 10
+
+7. How comfortable do you feel with JS now?
+Relatively comfortable
+
+8. Do all of your HTML pages pass the W3C HTML validator?
+(https://validator.w3.org/)
+Not quite
+
+9. Which parts of this assignment did you have trouble with, if any?
+The calculator javascript was a little challenging because I didn't want to look up any hints. 
+So I probably did it in an inefficient way, and it took me longer than I thought it would.
+
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
